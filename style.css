@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.abuelo {
+	position: relative;
+	margin: 20px auto;
+	width: 300px;
+	height: 300px;
+}
+
+.padre {
+	position: absolute;
+	top: 75px;
+	left: 75px;
+	width: 150px;
+	height: 150px;
+}
+
+.hijo {
+	position: absolute;
+	width: 75px;
+	height: 75px; 
+}
+
+.hijoDos {
+	position: relative;
+}
+
+#rosa {
+	background-color: #EE3E64
+}
+
+#morado{
+ 	background-color: #9E0ED7;
+}
+
+#amarillo {
+	background-color: #FAFF0E;
+}
+
+#azul {
+	background-color: #0E7BFF;
+}
+
+#verde {
+	background-color: #45FF0E;
+}
+
+#negro {
+	background-color: #010F1E;
+}
